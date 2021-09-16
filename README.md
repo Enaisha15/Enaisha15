@@ -1,8 +1,9 @@
 ## Hi, my name is ENAISHA SAVAGE 👋🏾
 
 
-<img src="![bakground](https://user-images.githubusercontent.com/89624071/133649912-de49877d-dda5-4d45-bcfb-1ba36dff9f7a.png) 
-I am passsionate, dedicated, eager to learn Software Engineer 👩🏾‍💻. Learning to code has open my eyes to the endless opportunities that this world has to offer my family and I . I enjoy challenging myself and belive I can meet any company needs with my drive and skills.
+<img src="https://user-images.githubusercontent.com/89624071/133649912-de49877d-dda5-4d45-bcfb-1ba36dff9f7a.png" width="950" height="200"> 
+
+## I am passsionate, dedicated, eager to learn Software Engineer 👩🏾‍💻. Learning to code has open my eyes to the endless opportunities that this world has to offer my family and I . I enjoy challenging myself and belive I can meet any company needs with my drive and skills.
 
  <a href="https://resilientcoders.org">Resilient Coders</a>
 <p></p>
@@ -23,7 +24,8 @@ I am passsionate, dedicated, eager to learn Software Engineer 👩🏾‍💻. L
   </p>  
 
 ## Relevant Skills 
-Coding: HTML & CSS | JavaScript 
+
+## Coding: HTML & CSS | JavaScript 
 
 
 Languages: EnglisH

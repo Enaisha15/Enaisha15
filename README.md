@@ -13,7 +13,7 @@ I am passsionate, dedicated, eager to learn Software Engineer. Learning to code 
 	<a target="_blank" href="https://eswebpage.netlify.app">
 	  <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-link.png" width="30px;" alt="Portfolio Site" />
 	</a>
-	<a target="_blank" href="https://www.linkedin.com/rioacunacastillo">
+	<a target="_blank" href="https://www.linkedin.com/in/enaisha-savage-34830451/">
 	  <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-linkedin.png" width="30px;" alt="LinkedIn" />
 	</a>
 	<a target="_blank" href="https://twitter.com/EnaishaS">

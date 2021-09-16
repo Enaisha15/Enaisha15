@@ -1,16 +1,29 @@
-### Hi there 👋
+## Hi, my name is ENAISHA SAVAGE :wave:
 
-<!--
-**Enaisha15/Enaisha15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am passsionate, dedicated, eager to learn Software Engineer. Learning to code has open my eyes to the endless opportunities that this world has to offer my family and I . I enjoy challenging myself and belive I can meet any company needs with my drive and skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: SHE/HER/HERS
-- ⚡ Fun fact: ...
--->
+ <a href="https://resilientcoders.org">Resilient Coders</a>
+<p></p>
+
+<p></p>
+<!-- See more on <a href="https://riocastillo.netlify.app">my portolio</a>! -->
+  <p></p>
+  <p align="left">
+	<a target="_blank" href="https://riocastillo.netlify.app">
+	  <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-link.png" width="30px;" alt="Portfolio Site" />
+	</a>
+	<a target="_blank" href="https://www.linkedin.com/rioacunacastillo">
+	  <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-linkedin.png" width="30px;" alt="LinkedIn" />
+	</a>
+	<a target="_blank" href="https://twitter.com/https://twitter.com/EnaishaS">
+	  <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-twitter.png" width="30px;" alt="Twitter" />
+	</a>
+  </p>  
+
+## Relevant Skills 
+Coding: HTML & CSS | JavaScript 
+
+
+Languages: EnglisH
+

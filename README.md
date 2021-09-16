@@ -16,7 +16,7 @@ I am passsionate, dedicated, eager to learn Software Engineer. Learning to code 
 	<a target="_blank" href="https://www.linkedin.com/rioacunacastillo">
 	  <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-linkedin.png" width="30px;" alt="LinkedIn" />
 	</a>
-	<a target="_blank" href="https://twitter.com/https://twitter.com/EnaishaS">
+	<a target="_blank" href="https://twitter.com/https://@EnaishaS">
 	  <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-twitter.png" width="30px;" alt="Twitter" />
 	</a>
   </p>  

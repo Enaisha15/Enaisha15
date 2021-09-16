@@ -1,4 +1,4 @@
-## Hi, my name is ENAISHA SAVAGE :wave:
+## Hi, my name is ENAISHA SAVAGE 👋🏾
 
 
 I am passsionate, dedicated, eager to learn Software Engineer. Learning to code has open my eyes to the endless opportunities that this world has to offer my family and I . I enjoy challenging myself and belive I can meet any company needs with my drive and skills.

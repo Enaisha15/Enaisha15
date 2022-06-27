@@ -1,7 +1,6 @@
 ### ENAISHA SAVAGE 👋🏾
 
 
-![d374a306e55a155b-](https://user-images.githubusercontent.com/89624071/137649928-88e9da58-9614-4e10-9564-1322c6064886.gif)
 
 ## I am passsionate, dedicated, eager to learn Software Engineer 👩🏾‍💻. Learning to code has open my eyes to the endless opportunities that this world has to offer my family and I . I enjoy challenging myself and believe I can meet any company's needs with my drive and skills.
  <a href="https://resilientcoders.org">Resilient Coders</a>
